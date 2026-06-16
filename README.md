@@ -129,8 +129,8 @@
     <h2>Our Work</h2>
 
     <div class="gallery">
-        <img src="ribbon1.jpeg" alt="Ribbon Design 1">
-        <img src="ribbon2.jpeg" alt="Ribbon Design 2">
+<img src="IMG_1505.jpeg" alt="Ribbon 1">
+<img src="IMG_1506.jpeg" alt="Ribbon 2">
     </div>
 </section>
 
