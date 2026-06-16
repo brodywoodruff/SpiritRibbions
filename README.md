@@ -72,9 +72,8 @@ section{
 }
 
 <div class="gallery">
-    <img src="images/ribbon1.jpg" alt="Ribbon 1">
-    <img src="images/ribbon2.jpg" alt="Ribbon 2">
-    <img src="images/ribbon3.jpg" alt="Ribbon 3">
+   <img src="images/ribbon1.jpg">
+   <img src="images/ribbon2.jpg">
 </div>
 
 .gallery img{
