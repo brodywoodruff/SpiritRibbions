@@ -146,6 +146,8 @@ footer{
     <p>Phone: (555) 555-5555</p>
     <p>Message us today for custom orders and pricing!</p>
 </section>
+(205)363-2512
+Brodywoodruff31@gmail.com
 
 <footer>
     <p>© 2026 Spirit Ribbons. All Rights Reserved.</p>
